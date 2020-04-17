@@ -139,3 +139,7 @@ script_template_3.py
 test_template_3.py
 cover
 ~$*.docx
+
+# package-level ignores
+data/epidoc-stylesheets
+tests/output
