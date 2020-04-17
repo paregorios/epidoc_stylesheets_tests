@@ -37,5 +37,5 @@ To verify that transforms are working with the epidoc stylesheets, run the follo
 
 <hr/>
 
-epidoc_stylesheets_tests is the work of Tom Elliott (tom.elliott@nyu.edu). Copyright (c) 2020 New York University. See LICENSE.txt file for complete license.
+epidoc_stylesheets_tests is the work of Tom Elliott (tom.elliott@nyu.edu) and Hugh Cayless (hugh.cayless@duke.edu). Copyright (c) 2020 New York University and Duke University. See LICENSE.txt file for complete license.
 
